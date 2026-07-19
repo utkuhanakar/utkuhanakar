@@ -140,11 +140,11 @@ Hands-on learning with AI support
 <!--START_SECTION:waka-->
 
 ```txt
-C#              3 hrs 33 mins         ███████████████▓░░░░░░░░░   63.20 %
-Markdown        1 hr 50 mins          ████████▒░░░░░░░░░░░░░░░░   32.79 %
-Python          3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Unity3D Asset   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-Image (png)     2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+C#              2 hrs 26 mins         ████████████████▓░░░░░░░░   66.56 %
+Markdown        1 hr 4 mins           ███████▒░░░░░░░░░░░░░░░░░   29.21 %
+Python          2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Text            2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Unity3D Asset   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
