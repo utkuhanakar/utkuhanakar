@@ -29,9 +29,9 @@ learning... building... improving...
 ## 🏗️ SYSTEM ARCHITECT & DEVELOPER
 > "I build the architecture first, then use AI to weave the code at light speed."
 
-- 🔭 **Current Focus:** Developing **Virentah** (Steam Project) & University Coursework.
+- 🔭 **Current Focus:** Developing **Football Club Operations (FCO 2026 - MOBİLE FOOTBALL MANAGER GAME) ** (Mobile Project).
 - ⚡ **Vibe Coding Philosophy:** Leveraging AI (Cursor/Claude/Antigravity) for rapid implementation while maintaining strict system design.
-- 🎓 **Education:** Samsun University - Software Engineering (1st Year).
+- 🎓 **Education:** Samsun University - Software Engineering (2st Year).
 
 
 ---
@@ -68,7 +68,7 @@ Software Engineering
 
 | Project | Status | Tech Stack | Description |
 | :--- | :--- | :--- | :--- |
-| **Virentah** | 🛠 In Dev | Unity / AI-Generated C# | **AI-Driven Game Dev:** Managing Unity engine & game design while LLMs handle 100% of the C# scripting. |
+| **Football Club Operations** | 🛠 In Dev | Unity / AI-Generated C# | **AI-Driven Game Dev:** Managing Unity engine & game design while LLMs handle 100% of the C# scripting. |
 | **Dev-Learning** | 📚 Ongoing | C / Python | Strengthening core algorithmic thinking and system fundamentals. |
 | **Web-Architecture** | 📅 Summer Plan | HTML / CSS / JS / React / Typescript / node.js / Props | Mastering DOM manipulation and layout structures before moving to frameworks. |
 
