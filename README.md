@@ -113,13 +113,6 @@ Hands-on learning with AI support
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2"/>
 
-## 📊 ANALYTICS
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=utkuhanakar&show_icons=true&theme=tokyonight&hide_border=true&v=1"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkuhanakar&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 
 
 ## 🔥 STREAK
@@ -137,15 +130,6 @@ Hands-on learning with AI support
 
 
 ## ⏱ WAKATIME
-<!--START_SECTION:waka-->
-
-```txt
-C#       1 hr 2 mins           █████████████░░░░░░░░░░░░   52.53 %
-Python   46 mins               █████████▓░░░░░░░░░░░░░░░   39.26 %
-XML      9 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
-```
-
-<!--END_SECTION:waka-->
 
 <p align="center">
   <img src="https://wakatime.com/share/@cb1b3a3a-e289-40b1-996a-9e736dc40a9b/98a6e366-45b8-47bf-9453-f726195e7e7c.svg" />
